@@ -93,3 +93,24 @@ $hash_md5 = md5($texto);
 echo "Texto original: $texto<br>";
 echo "MD5: $hash_md5";
 ?>
+
+-EJERCICIO 6
+
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+    <h1>Ejercicio6</h1>
+        <p>
+            <?php
+                for($i = 0; $i < 11; $i++) {
+                    echo str_repeat('*', $i) . str_repeat('&nbsp&nbsp', 2*(10-$i)) . str_repeat('*', $i) . '<br />';
+                }
+                for($i = 9; $i > 0; $i--) {
+                    echo str_repeat('*', $i) . str_repeat('&nbsp&nbsp', 2*(10-$i)) . str_repeat('*', $i) . '<br />';
+                }
+            ?>
+        </p>
+    </body>
+</html>
