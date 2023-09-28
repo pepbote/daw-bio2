@@ -1,31 +1,39 @@
--EJERCICIO 10
-
+## Ejercicio 3 poo
 <?php
-function ordenarArray($array, $orden, $por) {
-    if ($orden === 'ascendente') {
-        usort($array, function ($a, $b) use ($por) {
-            return $a[$por] <=> $b[$por];
-        });
-    } elseif ($orden === 'descendente') {
-        usort($array, function ($a, $b) use ($por) {
-            return $b[$por] <=> $a[$por];
-        });
-    } else {
-        return false;
+    class SensorController {
+        public $sensorValue;
+        function generateRandomValueForSensor($i) {
+            $this->sensorValue[$i] = rand(0, 4095);
+        }
+
+        function getSensorValue($i) {
+            return $this->sensorValue[$i];
+        }
+
+        function evaluateFormulaForSensor($i, $config)
+        {
+            $config = str_replace("sensor", $this->getSensorValue($i), $config);
+            return eval("return $config;");
+        }
     }
 
-    return $array;
-}
+    for ($i = 0; $i < 5; $i++) {
+        $controller = new SensorController();
+        $controller->generateRandomValueForSensor($i);
+        echo "Sensor " . $i . ": " . $controller->getSensorValue($i) . "\n";
+        $result1 = $controller->evaluateFormulaForSensor($i, "sensor * 2 / 24");
+        $result2 = $controller->evaluateFormulaForSensor($i, "sensor / 2");
+        $result3 = $controller->evaluateFormulaForSensor($i, "sensor + 2");
 
-$datos = array(
-    array('nombre' => 'Juan', 'edad' => 30),
-    array('nombre' => 'Ana', 'edad' => 25),
-    array('nombre' => 'Carlos', 'edad' => 35)
-);
+        echo "<pre>";
 
-$ordenado = ordenarArray($datos, 'descendente', 'nombre');
+        echo "Result for formula 'sensor * 2 / 24': " . $result1 . "\n";
+        echo "Result for formula 'sensor / 2': " . $result2 . "\n";
+        echo "Result for formula 'sensor + 2': " . $result3 . "\n";
+        echo "\n";
 
-foreach ($ordenado as $item) {
-    echo "Nombre: {$item['nombre']}, Edad: {$item['edad']}<br>";
-}
+        echo "</pre>";
+    }
+
+
 ?>
