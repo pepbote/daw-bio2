@@ -1,3 +1,5 @@
+-EJERCICIO 3
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -25,4 +27,58 @@
             ?>
         </p>
     </body>
+</html>
+
+
+-EJERCICIO 7
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .tablero {
+            width: 240px;
+            height: 240px;
+            border-collapse: collapse;
+        }
+
+        .casillas {
+            width: 30px;
+            height: 30px;
+            text-align: center;
+            vertical-align: middle;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .blanco {
+            background-color: #fff;
+        }
+
+        .negro {
+            background-color: #000;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+<table class="tablero" border="1">
+    <?php
+    $esBlanco = true;
+
+    for ($fila = 1; $fila <= 8; $fila++) {
+        echo "<tr>";
+
+        for ($col = 1; $col <= 8; $col++) {
+            $class = $esBlanco ? 'blanco' : 'negro';
+            echo "<td class='$class'></td>";
+            $esBlanco = !$esBlanco;
+        }
+        $esBlanco = !$esBlanco;
+
+        echo "</tr>";
+    }
+    ?>
+</table>
+</body>
 </html>
