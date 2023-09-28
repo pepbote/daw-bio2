@@ -1,22 +1,25 @@
-public class Main {
+-EJERCICIO 4
+
+public class EX_04 {
     public static void main(String[] args) {
-        String cadena = "mecmecmec";
-        char letraBuscada = 'e';
-        
-        int posicion = cadena.indexOf(letraBuscada);
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Intoduce una frase:");
+        String frase = scanner.nextLine();
+        System.out.println("Intoduce un caracter:");
+        char caracterBuscado = scanner.nextLine().charAt(0);
+        int indice= frase.indexOf(caracterBuscado);
         int contador = 0;
-        
-        while (posicion != -1) {
-            System.out.println("La posición de '" + letraBuscada + "' en la cadena es: " + posicion);
-            // Busca la siguiente ocurrencia a partir de la posición actual + 1
-            posicion = cadena.indexOf(letraBuscada, posicion + 1);
+
+        while (indice != -1) {
+            System.out.println("El caracter " + caracterBuscado +  " se euncuentra en la posición: "+ indice);
+            indice = frase.indexOf(caracterBuscado, indice + 1);
             contador++;
         }
         
-        if (contador == 0) {
-            System.out.println("'" + letraBuscada + "' no se encontró en la cadena.");
-        } else {
-            System.out.println("Se encontraron " + contador + " ocurrencias de '" + letraBuscada + "'.");
+        if (contador==0) {
+            System.out.println("'" + caracterBuscado + "' no se encuentra en la cadena.");
         }
-    }
-}
+        scanner.close();
+        }
+        }
+        
