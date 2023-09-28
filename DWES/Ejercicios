@@ -1,1 +1,31 @@
+-EJERCICIO 10
 
+<?php
+function ordenarArray($array, $orden, $por) {
+    if ($orden === 'ascendente') {
+        usort($array, function ($a, $b) use ($por) {
+            return $a[$por] <=> $b[$por];
+        });
+    } elseif ($orden === 'descendente') {
+        usort($array, function ($a, $b) use ($por) {
+            return $b[$por] <=> $a[$por];
+        });
+    } else {
+        return false;
+    }
+
+    return $array;
+}
+
+$datos = array(
+    array('nombre' => 'Juan', 'edad' => 30),
+    array('nombre' => 'Ana', 'edad' => 25),
+    array('nombre' => 'Carlos', 'edad' => 35)
+);
+
+$ordenado = ordenarArray($datos, 'descendente', 'nombre');
+
+foreach ($ordenado as $item) {
+    echo "Nombre: {$item['nombre']}, Edad: {$item['edad']}<br>";
+}
+?>
