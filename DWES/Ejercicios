@@ -1,1 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+    <h1>Ejercicio3</h1>
+        <p>
+            <?php
+                $paises = [
+                   'ESP' => array('nombre' => 'España', 'codigo' => 724),
+                   'AUS' => array('nombre' => 'Australia', 'codigo' => 231),
+                   'FRA' => array('nombre' => 'Francia', 'codigo' => 123),
+                   'FJI' => array('nombre' => 'Fiyi', 'codigo' => 421),
+                   'GTM' => array('nombre' => 'Guatemala', 'codigo' => 412),
+                   'DEU' => array('nombre' => 'Alemania', 'codigo' => 588),
+                   'AGO' => array('nombre' => 'Angola', 'codigo' => 666),
+                   'AND' => array('nombre' => 'Andorra', 'codigo' => 421),
+                   'PRT' => array('nombre' => 'Portugal', 'codigo' => 635),
+                   'HTI' => array('nombre' => 'Haití', 'codigo' => 332)
+                ];
 
+            foreach($paises as $pais => ['nombre' => $nombre, 'codigo' => $codigo]) {
+                echo 'El país ' . $nombre . ' utiliza el código alfa-3 ' . $pais . ' con código numérico: ' . $codigo . '<br />';
+            }
+            ?>
+        </p>
+    </body>
+</html>
