@@ -1,39 +1,22 @@
-## Ejercicio 3 poo
-<?php
-    class SensorController {
-        public $sensorValue;
-        function generateRandomValueForSensor($i) {
-            $this->sensorValue[$i] = rand(0, 4095);
+public class Main {
+    public static void main(String[] args) {
+        String cadena = "mecmecmec";
+        char letraBuscada = 'e';
+        
+        int posicion = cadena.indexOf(letraBuscada);
+        int contador = 0;
+        
+        while (posicion != -1) {
+            System.out.println("La posición de '" + letraBuscada + "' en la cadena es: " + posicion);
+            // Busca la siguiente ocurrencia a partir de la posición actual + 1
+            posicion = cadena.indexOf(letraBuscada, posicion + 1);
+            contador++;
         }
-
-        function getSensorValue($i) {
-            return $this->sensorValue[$i];
-        }
-
-        function evaluateFormulaForSensor($i, $config)
-        {
-            $config = str_replace("sensor", $this->getSensorValue($i), $config);
-            return eval("return $config;");
+        
+        if (contador == 0) {
+            System.out.println("'" + letraBuscada + "' no se encontró en la cadena.");
+        } else {
+            System.out.println("Se encontraron " + contador + " ocurrencias de '" + letraBuscada + "'.");
         }
     }
-
-    for ($i = 0; $i < 5; $i++) {
-        $controller = new SensorController();
-        $controller->generateRandomValueForSensor($i);
-        echo "Sensor " . $i . ": " . $controller->getSensorValue($i) . "\n";
-        $result1 = $controller->evaluateFormulaForSensor($i, "sensor * 2 / 24");
-        $result2 = $controller->evaluateFormulaForSensor($i, "sensor / 2");
-        $result3 = $controller->evaluateFormulaForSensor($i, "sensor + 2");
-
-        echo "<pre>";
-
-        echo "Result for formula 'sensor * 2 / 24': " . $result1 . "\n";
-        echo "Result for formula 'sensor / 2': " . $result2 . "\n";
-        echo "Result for formula 'sensor + 2': " . $result3 . "\n";
-        echo "\n";
-
-        echo "</pre>";
-    }
-
-
-?>
+}
