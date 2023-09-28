@@ -82,3 +82,14 @@
 </table>
 </body>
 </html>
+
+
+-EJERCICIO 9
+
+<?php
+$texto = "Ejemplo de uso de cálculo md5 de un texto";
+$hash_md5 = md5($texto);
+
+echo "Texto original: $texto<br>";
+echo "MD5: $hash_md5";
+?>
