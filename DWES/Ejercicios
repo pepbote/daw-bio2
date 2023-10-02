@@ -1,25 +1,39 @@
--EJERCICIO 4
+<?php
+    class SensorController {
+        public $sensorValue;
+        function generateRandomValueForSensor($i) {
+            $this->sensorValue[$i] = rand(0, 4095);
+        }
 
-public class EX_04 {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Intoduce una frase:");
-        String frase = scanner.nextLine();
-        System.out.println("Intoduce un caracter:");
-        char caracterBuscado = scanner.nextLine().charAt(0);
-        int indice= frase.indexOf(caracterBuscado);
-        int contador = 0;
+        function getSensorValue($i) {
+            return $this->sensorValue[$i];
+        }
 
-        while (indice != -1) {
-            System.out.println("El caracter " + caracterBuscado +  " se euncuentra en la posición: "+ indice);
-            indice = frase.indexOf(caracterBuscado, indice + 1);
-            contador++;
+        function evaluateFormulaForSensor($i, $config)
+        {
+            $config = str_replace("sensor", $this->getSensorValue($i), $config);
+            return eval("return $config;");
         }
-        
-        if (contador==0) {
-            System.out.println("'" + caracterBuscado + "' no se encuentra en la cadena.");
-        }
-        scanner.close();
-        }
-        }
+    }
+
+    for ($i = 0; $i < 5; $i++) {
+        $controller = new SensorController();
+        $controller->generateRandomValueForSensor($i);
+        echo "Sensor " . $i . ": " . $controller->getSensorValue($i) . "\n";
+        $result1 = $controller->evaluateFormulaForSensor($i, "sensor * 2 / 24");
+        $result2 = $controller->evaluateFormulaForSensor($i, "sensor / 2");
+        $result3 = $controller->evaluateFormulaForSensor($i, "sensor + 2");
+
+        echo "<pre>";
+
+        echo "Result for formula 'sensor * 2 / 24': " . $result1 . "\n";
+        echo "Result for formula 'sensor / 2': " . $result2 . "\n";
+        echo "Result for formula 'sensor + 2': " . $result3 . "\n";
+        echo "\n";
+
+        echo "</pre>";
+    }
+
+
+?>
         
