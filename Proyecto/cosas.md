@@ -13,3 +13,6 @@ Las mejores aplicaciones Android para buscar personas:
 - Localizar personas
 
 https://computerhoy.com/reportajes/tecnologia/7-apps-android-poder-localizar-amigos-familiares-incluso-grandes-aglomeraciones-gente-963783
+
+Air Tag (apple)
+https://www.xataka.com/basics/airtags-que-como-funciona-tecnologia-banda-ultraancha-uwb-que-usan
