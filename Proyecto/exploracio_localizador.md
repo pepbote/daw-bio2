@@ -16,11 +16,9 @@ El document hauria d'incloure l'anàlisi d'un mínim de 3 plataformes diferents:
 
 PEP:
 - Life360
-- Family Locator
-- A-GPS Tracker
+
 
 DAVID:
-- Geo Tracker
-- Glympse
-- FamiSafe
+- Family Locator
+
 
