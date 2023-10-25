@@ -19,6 +19,14 @@ PEP:
 
 
 DAVID:
-- Family Locator
+- Family Locator -> https://family-locator.com/es.html
+
+![image](https://github.com/pepbote/daw-bio2/assets/144775859/30ba00b0-1baf-4cdc-a51e-977015fd463f)
+
+De la App (Family Locator) ens agradaria desctacar la opció que dona la app de crear zones segures/insegures, registrarse i enviar SOS. El funcionament de les zones crida molt la atenció, funciona mitjançcant notificacions automàtiques de l'aplciació informant cada cop que algú entra o surt de la zona indicada. També permet registrarse per donar coneixement als diferents usuaris de l'aplicació, que ha arribat corectament. I per últim un botó SOS que al fer clic, envia la ubicació exacta de l'usuari. 
 
 
+- Waze
+
+
+- 
