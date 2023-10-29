@@ -15,30 +15,34 @@ El document hauria d'incloure l'anàlisi d'un mínim de 3 plataformes diferents:
 
 
 PEP:
-- Life360
+- Life360 -> https://www.life360.com/
 
+![image](https://github.com/pepbote/daw-bio2/assets/144775358/c118e299-92a2-4529-bc2f-14c5feae1a04)
+
+Life360 és una aplicació de geolocalització que permet als membres d'un cercle compartir la seva ubicació en temps real. És comúment utilitzada per les famílies per mantenir-se connectades i assegurar-se que tothom estigui fora de perill i segur.
+
+D'aspectes positius cal destacar l'alerta d'arribada i sortida dels membres del cercle familiar en temps real. A més, en cas d'emergència, té un botó per alertar la família i que sàpiguen on ets sense haver-ho de comunicar.
+
+D'altra banda, d'aquesta aplicació es podrien millorar algunes coses, per exemple, quan la descarregues reps constantment notificacions relacionades amb l'aplicació i pot arribar a ser agobiant. Per tant, estaria bé reduir el nombre de notificacions. També es podria fer una interfície una mica més intuitiva per a la gent que no entén tant de les noves tecnologies.
 
 DAVID:
 - Family Locator -> https://family-locator.com/es.html
 
 ![image](https://github.com/pepbote/daw-bio2/assets/144775859/30ba00b0-1baf-4cdc-a51e-977015fd463f)
 
-De l'App (Family Locator) ens agradaria destacar l'opció que dona l'app de crear zones segures/insegures, registrar-se i enviar SOS. El funcionament de les zones crida molt l'atenció, funciona mitjançant notificacions automàtiques de l'aplicació informant cada 
-cop que algú entra o surt de la zona indicada. També permet registrar-se per donar coneixement als diferents usuaris de l'aplicació, que s'ha arribat correctament. I finalment un botó SOS que en fer clic, envia la ubicació exacta de l'usuari.
+De l'App (Family Locator) ens agradaria destacar l'opció que dona l'app de crear zones segures/insegures, registrar-se i enviar SOS. El funcionament de les zones crida molt l'atenció, funciona mitjançant notificacions automàtiques de l'aplicació informant cada cop que algú entra o surt de la zona indicada. També permet registrar-se per donar coneixement als diferents usuaris de l'aplicació, que s'ha arribat correctament. I finalment un botó SOS que en fer clic, envia la ubicació exacta de l'usuari.
 
 
 ![image](https://github.com/pepbote/daw-bio2/assets/144775859/0f530fdd-3c1e-4eb9-a247-93aed0f683e8)
 
-Com a punt feble, trobem que només es torba en versió app, i no dona l'opció web. Creiem que una versió web amb un registre mitjançant l'ús d'un usuari i una contrasenya podria arribar a molta més gent, i la possibilitat d'utilitzar la web a l'ordinador, li 
-donaria una segona vida a l'aplicació.
+Com a punt feble, trobem que només es torba en versió app, i no dona l'opció web. Creiem que una versió web amb un registre mitjançant l'ús d'un usuari i una contrasenya podria arribar a molta més gent, i la possibilitat d'utilitzar la web a l'ordinador, li  donaria una segona vida a l'aplicació.
 
 
 - Waze -> https://www.waze.com/es/live-map
 
 ![p8yg7urr](https://github.com/pepbote/daw-bio2/assets/144775859/2b43de8b-5cf3-46d0-b6ab-02219e522efe)
 
-Aquesta és la versió web de Waze, és una aplicació per a conductors, que serveix per conèixer a quina hora arribaràs a qualsevol lloc i per on és la millor manera d'arribar. Un punt positiu de Waze, és que té la seva versió web, a la qual pots accedir al teu
-compte mitjançant un codi QR o iniciant sessió, com es mostra a les següents imatges:
+Aquesta és la versió web de Waze, és una aplicació per a conductors, que serveix per conèixer a quina hora arribaràs a qualsevol lloc i per on és la millor manera d'arribar. Un punt positiu de Waze, és que té la seva versió web, a la qual pots accedir al teu compte mitjançant un codi QR o iniciant sessió, com es mostra a les següents imatges:
 
 ![image](https://github.com/pepbote/daw-bio2/assets/144775859/ed761a7a-e0ac-4ca8-9d97-f77e44371bd5)
 
@@ -50,8 +54,7 @@ També cal destacar, el seu mapa amb informació en temps real i la possibilitat
 
 A la imatge podem observar un usuari (marcat amb negre) i una zona d'obres (marcat amb vermell).
 
-Un punt feble que trobem de Waze és la dependència de la connectivitat a Internet, Waze requereix una connexió a Internet constant per funcionar correctament. Això pot ser problemàtic en àrees amb senyal cel·lular deficient o durant viatges internacionals quan 
-les dades mòbils poden ser costoses.
+Un punt feble que trobem de Waze és la dependència de la connectivitat a Internet, Waze requereix una connexió a Internet constant per funcionar correctament. Això pot ser problemàtic en àrees amb senyal cel·lular deficient o durant viatges internacionals quan  les dades mòbils poden ser costoses.
 
 - Airbnb -> https://www.airbnb.es/?_set_bev_on_new_domain=1698603026_MmE4MzkwYjk0OWM3
 
