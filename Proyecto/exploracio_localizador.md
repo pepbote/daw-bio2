@@ -48,7 +48,10 @@ També cal destacar, el seu mapa amb informació en temps real i la possibilitat
 
 ![eiq3d3gd](https://github.com/pepbote/daw-bio2/assets/144775859/417ecdc1-14b6-436d-b14d-0e37e187e7c5)
 
-
 A la imatge podem observar un usuari (marcat amb negre) i una zona d'obres (marcat amb vermell).
+
+
+Un punt feble que trobem de Waze és la dependència de la connectivitat a Internet, Waze requereix una connexió a Internet constant per funcionar correctament. Això pot ser problemàtic en àrees amb senyal cel·lular deficient o durant viatges internacionals quan 
+les dades mòbils poden ser costoses.
 
 - 
