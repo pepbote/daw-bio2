@@ -38,13 +38,11 @@ Com a punt feble, trobem que només es torba en versió app, i no dona l'opció 
 
 ## Waze -> https://www.waze.com/es/live-map
 
+Aquesta és la versió web de Waze, és una aplicació per a conductors, que serveix per conèixer a quina hora arribaràs a qualsevol lloc i per on és la millor manera d'arribar. Un punt positiu de Waze, és que té la seva versió web, a la qual pots accedir al teu compte mitjançant un codi QR o iniciant sessió.
+
 ![image](https://github.com/pepbote/daw-bio2/assets/144775358/c9b83d8e-6a39-4f0d-8acd-fdfab8131c75)
 
-Aquesta és la versió web de Waze, és una aplicació per a conductors, que serveix per conèixer a quina hora arribaràs a qualsevol lloc i per on és la millor manera d'arribar. Un punt positiu de Waze, és que té la seva versió web, a la qual pots accedir al teu compte mitjançant un codi QR o iniciant sessió, com es mostra a les següents imatges:
-
-![image](https://github.com/pepbote/daw-bio2/assets/144775859/ed761a7a-e0ac-4ca8-9d97-f77e44371bd5)
-
-![image](https://github.com/pepbote/daw-bio2/assets/144775859/7c7331e5-1559-46db-af3a-6b5b0c9a39c3)
+![image](https://github.com/pepbote/daw-bio2/assets/144775358/9e910056-071e-41bf-a127-5064d6979e50)
 
 També cal destacar, el seu mapa amb informació en temps real i la possibilitat de veure altres usuaris al mapa. 
 
@@ -52,22 +50,18 @@ Un punt feble que trobem de Waze és la dependència de la connectivitat a Inter
 
 ## Airbnb -> https://www.airbnb.es/?_set_bev_on_new_domain=1698603026_MmE4MzkwYjk0OWM3
 
-![image](https://github.com/pepbote/daw-bio2/assets/144775859/6ccc1709-d31c-4797-aa99-01fa20e2acd5)
-
 D'Airbnb podem destacar moltíssimes coses de la seva web, per nosaltres té unes funcionalitats impressionants, però volem destacar tres punts de la web:
 - Filtres avançats: Pots refinar les teves recerques segons una varietat de criteris, com el tipus d'allotjament, el preu, la ubicació i més.
 
-![image](https://github.com/pepbote/daw-bio2/assets/144775859/3bdfc881-0635-4402-be24-11d8e019b9f9)
+![image](https://github.com/pepbote/daw-bio2/assets/144775358/db08e017-1f95-49be-99c4-8eacd19f080c)
 
 - Mapa interactiu: Airbnb utilitza mapes interactius per ajudar-te a explorar i triar allotjaments en ubicacions específiques.
 
-![image](https://github.com/pepbote/daw-bio2/assets/144775859/ff8eb77d-c702-42aa-994f-00b6cdc3b771)
-
-![image](https://github.com/pepbote/daw-bio2/assets/144775859/3714fd44-ca48-42c7-bb6a-59df64b6bb10)
+![image](https://github.com/pepbote/daw-bio2/assets/144775358/5adfec4c-8243-4f90-a50d-20125ba155da)
 
 - Sistema de ressenyes i qualificacions: Els usuaris poden llegir ressenyes i qualificacions detallades d' allotjaments i amfitrions, la qual cosa ajuda a prendre decisions informades.
 
-![image](https://github.com/pepbote/daw-bio2/assets/144775859/77fd4159-c69f-40aa-a55e-1da37240f0f0)
+![image](https://github.com/pepbote/daw-bio2/assets/144775358/956b7ef8-0dd5-4846-a98b-517068769912)
 
 
 
