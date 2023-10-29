@@ -2,7 +2,7 @@
 
 Life360 és una aplicació de geolocalització que permet als membres d'un cercle compartir la seva ubicació en temps real. És comúment utilitzada per les famílies per mantenir-se connectades i assegurar-se que tothom estigui fora de perill i segur.
 
-![image](https://github.com/pepbote/daw-bio2/assets/144775358/c118e299-92a2-4529-bc2f-14c5feae1a04)
+![image](https://github.com/pepbote/daw-bio2/assets/144775358/35093882-0b86-4294-bacd-5290724eed7c)
 
 D'aspectes positius cal destacar l'alerta d'arribada i sortida dels membres del cercle familiar en temps real. A més, en cas d'emergència, té un botó per alertar la família i que sàpiguen on ets sense haver-ho de comunicar.
 
@@ -10,14 +10,14 @@ D'altra banda, d'aquesta aplicació es podrien millorar algunes coses, per exemp
 
 ## FindMy -> https://www.apple.com/newsroom/2021/04/apples-find-my-network-now-offers-new-third-party-finding-experiences/
 
-  ![image](https://github.com/pepbote/daw-bio2/assets/144775358/0611539b-5938-41db-a270-a2c2e725e3fd)
+![image](https://github.com/pepbote/daw-bio2/assets/144775358/fe225534-8bc9-4714-a155-432f1f8acb53)
 
 Un aspecte positiu de Find My és que es pot localitzar dispositius fins i tot quan estan fora de línia, ja que fa servir altres dispositius Apple a prop per ajudar en la geolocalització. No obstant això, seria positiu que aquesta funcionalitat també fos compatible amb dispositius d'altres marques. 
 Per millorar l'aplicació, seria positiu que incorporés algunes funcionalitats més avançades, com ara indicar la ruta més ràpida fins al dispositiu, tenir un sistema d'arribada i sortida dels llocs, així com la capacitat de desar adreces de llocs específics com la de casa o la feina.
 
 ## TheFork -> https://www.thefork.es/
 
-![image](https://github.com/pepbote/daw-bio2/assets/144775358/50fa5b21-7787-4391-bcd6-b9e67e78902e)
+![image](https://github.com/pepbote/daw-bio2/assets/144775358/00cbf412-5b4c-459e-97c0-12a64c7d7cd4)
 
 TheFork és una aplicació i plataforma en línia que ofereix serveis de reserva de taules en restaurants. El seu principal propòsit és permetre als usuaris trobar i reservar taules en restaurants de manera fàcil i còmoda. 
 
