@@ -1,31 +1,35 @@
-1- Aspectes que destaqueu en positiu (punts forts) i que intentareu imitar i/o incorporar en la vostra aplicació.
 
-2- Aspectes que destaqueu en negatiu (punts febles) i que intentareu millorar/resoldre en la vostra aplicació. 
-
-El document a presentar ha d'incloure 1 a 1 les aplicacions (llocs web) analitzats, fent una presentació exhaustiva del que trobeu (incorporant explicacions textuals amb captures de pantalla que il·lustrin el que comenteu), identificant els punts forts i febles. 
-
-Després de la presentació detallada de tots els llocs WEB (aplicacions) analitzats, s'hauria d'incloure un apartat de conclusions o resum en el que relacioneu aplicació a aplicació els punts forts a imitar i els punts febles a millorar. 
-
-
-El document hauria d'incloure l'anàlisi d'un mínim de 3 plataformes diferents:
-
-- Una de les plataformes ha de tenir un objectiu i temàtica propera al projecte que es vol desenvolupar (e.g. Si es desenvolupa un portal d’anunci de pisos es pot utilitzar Idealista per exemple).
 - La segona plataforma utilitzada a la comparativa ha de ser una plataforma que tingui funcionalitats similars, però no te perquè tenir un lligam temàtic ni funcional (e.g. en el mateix projecte que en el punt anterior, es podria utilitzar per exemple un portal d’e-commerce).
 - La tercera plataforma a escollir pot ser un sistema que no tingui res a veure però que a nivell tecnològic hagi implementat certes funcionalitats de forma innovadora (en aquest cas majoritàriament es poden fer servir serveis d’streaming, independentment de la temàtica, videojocs, plataformes de realitat augmentada, distribució dinàmica d’anuncis, etc.)
 
 
-PEP:
 - Life360 -> https://www.life360.com/
 
-![image](https://github.com/pepbote/daw-bio2/assets/144775358/c118e299-92a2-4529-bc2f-14c5feae1a04)
-
 Life360 és una aplicació de geolocalització que permet als membres d'un cercle compartir la seva ubicació en temps real. És comúment utilitzada per les famílies per mantenir-se connectades i assegurar-se que tothom estigui fora de perill i segur.
+
+![image](https://github.com/pepbote/daw-bio2/assets/144775358/c118e299-92a2-4529-bc2f-14c5feae1a04)
 
 D'aspectes positius cal destacar l'alerta d'arribada i sortida dels membres del cercle familiar en temps real. A més, en cas d'emergència, té un botó per alertar la família i que sàpiguen on ets sense haver-ho de comunicar.
 
 D'altra banda, d'aquesta aplicació es podrien millorar algunes coses, per exemple, quan la descarregues reps constantment notificacions relacionades amb l'aplicació i pot arribar a ser agobiant. Per tant, estaria bé reduir el nombre de notificacions. També es podria fer una interfície una mica més intuitiva per a la gent que no entén tant de les noves tecnologies.
 
-DAVID:
+- FindMy -> https://www.apple.com/newsroom/2021/04/apples-find-my-network-now-offers-new-third-party-finding-experiences/
+
+  ![image](https://github.com/pepbote/daw-bio2/assets/144775358/0611539b-5938-41db-a270-a2c2e725e3fd)
+
+Un aspecte positiu de Find My és que es pot localitzar dispositius fins i tot quan estan fora de línia, ja que fa servir altres dispositius Apple a prop per ajudar en la geolocalització. No obstant això, seria positiu que aquesta funcionalitat també fos compatible amb dispositius d'altres marques. 
+Per millorar l'aplicació, seria positiu que incorporés algunes funcionalitats més avançades, com ara indicar la ruta més ràpida fins al dispositiu, tenir un sistema d'arribada i sortida dels llocs, així com la capacitat de desar adreces de llocs específics com la de casa o la feina.
+
+- TheFork -> https://www.thefork.es/
+
+![image](https://github.com/pepbote/daw-bio2/assets/144775358/50fa5b21-7787-4391-bcd6-b9e67e78902e)
+
+TheFork és una aplicació i plataforma en línia que ofereix serveis de reserva de taules en restaurants. El seu principal propòsit és permetre als usuaris trobar i reservar taules en restaurants de manera fàcil i còmoda. 
+
+L'aplicació ofereix filtres avançats que permeten cercar restaurants segons criteris específics com el tipus de cuina, el preu i la ubicació. A més, també proporciona recordatoris de reserva, cosa que fa que els seus usuaris no oblidin la reserva. Aquestes són algunes de les bones característiques que té l'aplicació, la qual la fa molt fàcil d'utilitzar.
+
+Pel que fa als aspectes negatius, podríem dir que hi ha alguns restaurants que no estan classificats. Això vol dir que, si apliques filtres avançats, potser no et mostrarà alguns restaurants. També cal destacar que la configuració del perfil pot ser farragosa de fer i fins i tot una mica complexa per a persones que no coneixen gaire les noves tecnologies.
+
 - Family Locator -> https://family-locator.com/es.html
 
 ![image](https://github.com/pepbote/daw-bio2/assets/144775859/30ba00b0-1baf-4cdc-a51e-977015fd463f)
