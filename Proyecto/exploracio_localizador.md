@@ -23,7 +23,14 @@ DAVID:
 
 ![image](https://github.com/pepbote/daw-bio2/assets/144775859/30ba00b0-1baf-4cdc-a51e-977015fd463f)
 
-De l'App (Family Locator) ens agradaria destacar l'opció que dona l'app de crear zones segures/insegures, registrar-se i enviar SOS. El funcionament de les zones crida molt l'atenció, funciona mitjançant notificacions automàtiques de l'aplicació informant cada cop que algú entra o surt de la zona indicada. També permet registrar-se per donar coneixement als diferents usuaris de l'aplicació, que s'ha arribat correctament. I finalment un botó SOS que en fer clic, envia la ubicació exacta de l'usuari.
+De l'App (Family Locator) ens agradaria destacar l'opció que dona l'app de crear zones segures/insegures, registrar-se i enviar SOS. El funcionament de les zones crida molt l'atenció, funciona mitjançant notificacions automàtiques de l'aplicació informant cada 
+cop que algú entra o surt de la zona indicada. També permet registrar-se per donar coneixement als diferents usuaris de l'aplicació, que s'ha arribat correctament. I finalment un botó SOS que en fer clic, envia la ubicació exacta de l'usuari.
+
+
+![image](https://github.com/pepbote/daw-bio2/assets/144775859/0f530fdd-3c1e-4eb9-a247-93aed0f683e8)
+
+Com a punt feble, trobem que només es torba en versió app, i no dona l'opció web. Creiem que una versió web amb un registre mitjançant l'ús d'un usuari i una contrasenya podria arribar a molta més gent, i la possibilitat d'utilitzar la web a l'ordinador, li 
+donaria una segona vida a l'aplicació.
 
 
 - Waze
