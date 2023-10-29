@@ -57,3 +57,20 @@ les dades mòbils poden ser costoses.
 
 ![image](https://github.com/pepbote/daw-bio2/assets/144775859/6ccc1709-d31c-4797-aa99-01fa20e2acd5)
 
+D'Airbnb podem destacar moltíssimes coses de la seva web, per nosaltres té unes funcionalitats impressionants, però volem destacar tres punts de la web:
+- Filtres avançats: Pots refinar les teves recerques segons una varietat de criteris, com el tipus d'allotjament, el preu, la ubicació i més.
+
+![image](https://github.com/pepbote/daw-bio2/assets/144775859/3bdfc881-0635-4402-be24-11d8e019b9f9)
+
+- Mapa interactiu: Airbnb utilitza mapes interactius per ajudar-te a explorar i triar allotjaments en ubicacions específiques.
+
+![image](https://github.com/pepbote/daw-bio2/assets/144775859/ff8eb77d-c702-42aa-994f-00b6cdc3b771)
+
+![image](https://github.com/pepbote/daw-bio2/assets/144775859/3714fd44-ca48-42c7-bb6a-59df64b6bb10)
+
+- Sistema de ressenyes i qualificacions: Els usuaris poden llegir ressenyes i qualificacions detallades d' allotjaments i amfitrions, la qual cosa ajuda a prendre decisions informades.
+
+![image](https://github.com/pepbote/daw-bio2/assets/144775859/77fd4159-c69f-40aa-a55e-1da37240f0f0)
+
+
+
