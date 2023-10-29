@@ -1,9 +1,4 @@
-
-- La segona plataforma utilitzada a la comparativa ha de ser una plataforma que tingui funcionalitats similars, però no te perquè tenir un lligam temàtic ni funcional (e.g. en el mateix projecte que en el punt anterior, es podria utilitzar per exemple un portal d’e-commerce).
-- La tercera plataforma a escollir pot ser un sistema que no tingui res a veure però que a nivell tecnològic hagi implementat certes funcionalitats de forma innovadora (en aquest cas majoritàriament es poden fer servir serveis d’streaming, independentment de la temàtica, videojocs, plataformes de realitat augmentada, distribució dinàmica d’anuncis, etc.)
-
-
-- Life360 -> https://www.life360.com/
+## Life360 -> https://www.life360.com/
 
 Life360 és una aplicació de geolocalització que permet als membres d'un cercle compartir la seva ubicació en temps real. És comúment utilitzada per les famílies per mantenir-se connectades i assegurar-se que tothom estigui fora de perill i segur.
 
@@ -13,14 +8,14 @@ D'aspectes positius cal destacar l'alerta d'arribada i sortida dels membres del 
 
 D'altra banda, d'aquesta aplicació es podrien millorar algunes coses, per exemple, quan la descarregues reps constantment notificacions relacionades amb l'aplicació i pot arribar a ser agobiant. Per tant, estaria bé reduir el nombre de notificacions. També es podria fer una interfície una mica més intuitiva per a la gent que no entén tant de les noves tecnologies.
 
-- FindMy -> https://www.apple.com/newsroom/2021/04/apples-find-my-network-now-offers-new-third-party-finding-experiences/
+## FindMy -> https://www.apple.com/newsroom/2021/04/apples-find-my-network-now-offers-new-third-party-finding-experiences/
 
   ![image](https://github.com/pepbote/daw-bio2/assets/144775358/0611539b-5938-41db-a270-a2c2e725e3fd)
 
 Un aspecte positiu de Find My és que es pot localitzar dispositius fins i tot quan estan fora de línia, ja que fa servir altres dispositius Apple a prop per ajudar en la geolocalització. No obstant això, seria positiu que aquesta funcionalitat també fos compatible amb dispositius d'altres marques. 
 Per millorar l'aplicació, seria positiu que incorporés algunes funcionalitats més avançades, com ara indicar la ruta més ràpida fins al dispositiu, tenir un sistema d'arribada i sortida dels llocs, així com la capacitat de desar adreces de llocs específics com la de casa o la feina.
 
-- TheFork -> https://www.thefork.es/
+## TheFork -> https://www.thefork.es/
 
 ![image](https://github.com/pepbote/daw-bio2/assets/144775358/50fa5b21-7787-4391-bcd6-b9e67e78902e)
 
@@ -30,7 +25,7 @@ L'aplicació ofereix filtres avançats que permeten cercar restaurants segons cr
 
 Pel que fa als aspectes negatius, podríem dir que hi ha alguns restaurants que no estan classificats. Això vol dir que, si apliques filtres avançats, potser no et mostrarà alguns restaurants. També cal destacar que la configuració del perfil pot ser farragosa de fer i fins i tot una mica complexa per a persones que no coneixen gaire les noves tecnologies.
 
-- Family Locator -> https://family-locator.com/es.html
+## Family Locator -> https://family-locator.com/es.html
 
 ![image](https://github.com/pepbote/daw-bio2/assets/144775859/30ba00b0-1baf-4cdc-a51e-977015fd463f)
 
@@ -42,7 +37,7 @@ De l'App (Family Locator) ens agradaria destacar l'opció que dona l'app de crea
 Com a punt feble, trobem que només es torba en versió app, i no dona l'opció web. Creiem que una versió web amb un registre mitjançant l'ús d'un usuari i una contrasenya podria arribar a molta més gent, i la possibilitat d'utilitzar la web a l'ordinador, li  donaria una segona vida a l'aplicació.
 
 
-- Waze -> https://www.waze.com/es/live-map
+## Waze -> https://www.waze.com/es/live-map
 
 ![p8yg7urr](https://github.com/pepbote/daw-bio2/assets/144775859/2b43de8b-5cf3-46d0-b6ab-02219e522efe)
 
@@ -60,7 +55,7 @@ A la imatge podem observar un usuari (marcat amb negre) i una zona d'obres (marc
 
 Un punt feble que trobem de Waze és la dependència de la connectivitat a Internet, Waze requereix una connexió a Internet constant per funcionar correctament. Això pot ser problemàtic en àrees amb senyal cel·lular deficient o durant viatges internacionals quan  les dades mòbils poden ser costoses.
 
-- Airbnb -> https://www.airbnb.es/?_set_bev_on_new_domain=1698603026_MmE4MzkwYjk0OWM3
+## Airbnb -> https://www.airbnb.es/?_set_bev_on_new_domain=1698603026_MmE4MzkwYjk0OWM3
 
 ![image](https://github.com/pepbote/daw-bio2/assets/144775859/6ccc1709-d31c-4797-aa99-01fa20e2acd5)
 
