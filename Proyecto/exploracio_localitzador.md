@@ -27,19 +27,18 @@ Pel que fa als aspectes negatius, podríem dir que hi ha alguns restaurants que 
 
 ## Family Locator -> https://family-locator.com/es.html
 
-![image](https://github.com/pepbote/daw-bio2/assets/144775859/30ba00b0-1baf-4cdc-a51e-977015fd463f)
+![image](https://github.com/pepbote/daw-bio2/assets/144775358/bd25caf0-213e-4f3e-b32b-81dab59df722)
 
 De l'App (Family Locator) ens agradaria destacar l'opció que dona l'app de crear zones segures/insegures, registrar-se i enviar SOS. El funcionament de les zones crida molt l'atenció, funciona mitjançant notificacions automàtiques de l'aplicació informant cada cop que algú entra o surt de la zona indicada. També permet registrar-se per donar coneixement als diferents usuaris de l'aplicació, que s'ha arribat correctament. I finalment un botó SOS que en fer clic, envia la ubicació exacta de l'usuari.
 
-
-![image](https://github.com/pepbote/daw-bio2/assets/144775859/0f530fdd-3c1e-4eb9-a247-93aed0f683e8)
+![image](https://github.com/pepbote/daw-bio2/assets/144775358/7ffc5030-d2aa-4c2b-b14e-f1a6022d6f0d)
 
 Com a punt feble, trobem que només es torba en versió app, i no dona l'opció web. Creiem que una versió web amb un registre mitjançant l'ús d'un usuari i una contrasenya podria arribar a molta més gent, i la possibilitat d'utilitzar la web a l'ordinador, li  donaria una segona vida a l'aplicació.
 
 
 ## Waze -> https://www.waze.com/es/live-map
 
-![p8yg7urr](https://github.com/pepbote/daw-bio2/assets/144775859/2b43de8b-5cf3-46d0-b6ab-02219e522efe)
+![image](https://github.com/pepbote/daw-bio2/assets/144775358/c9b83d8e-6a39-4f0d-8acd-fdfab8131c75)
 
 Aquesta és la versió web de Waze, és una aplicació per a conductors, que serveix per conèixer a quina hora arribaràs a qualsevol lloc i per on és la millor manera d'arribar. Un punt positiu de Waze, és que té la seva versió web, a la qual pots accedir al teu compte mitjançant un codi QR o iniciant sessió, com es mostra a les següents imatges:
 
@@ -48,10 +47,6 @@ Aquesta és la versió web de Waze, és una aplicació per a conductors, que ser
 ![image](https://github.com/pepbote/daw-bio2/assets/144775859/7c7331e5-1559-46db-af3a-6b5b0c9a39c3)
 
 També cal destacar, el seu mapa amb informació en temps real i la possibilitat de veure altres usuaris al mapa. 
-
-![eiq3d3gd](https://github.com/pepbote/daw-bio2/assets/144775859/417ecdc1-14b6-436d-b14d-0e37e187e7c5)
-
-A la imatge podem observar un usuari (marcat amb negre) i una zona d'obres (marcat amb vermell).
 
 Un punt feble que trobem de Waze és la dependència de la connectivitat a Internet, Waze requereix una connexió a Internet constant per funcionar correctament. Això pot ser problemàtic en àrees amb senyal cel·lular deficient o durant viatges internacionals quan  les dades mòbils poden ser costoses.
 
