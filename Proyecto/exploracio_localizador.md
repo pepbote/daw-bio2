@@ -38,13 +38,12 @@ donaria una segona vida a l'aplicació.
 ![image](https://github.com/pepbote/daw-bio2/assets/144775859/f3c1ed31-45e3-4c30-a811-90d417b88b13)
 
 Aquesta és la versió web de Waze, és una aplicació per a conductors, que serveix per conèixer a quina hora arribaràs a qualsevol lloc i per on és la millor manera d'arribar. Un punt positiu de Waze, és que té la seva versió web, a la qual pots accedir al teu
-compte mitjançant un codi QR o iniciant sessió, com es mostra a les següents imatges.
+compte mitjançant un codi QR o iniciant sessió, com es mostra a les següents imatges:
 
 ![image](https://github.com/pepbote/daw-bio2/assets/144775859/ed761a7a-e0ac-4ca8-9d97-f77e44371bd5)
 
 ![image](https://github.com/pepbote/daw-bio2/assets/144775859/7c7331e5-1559-46db-af3a-6b5b0c9a39c3)
 
-
-
+També cal destacar, el seu mapa amb informació en temps real i la possibilitat de veure altres usuaris al mapa.
 
 - 
