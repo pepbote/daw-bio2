@@ -44,6 +44,10 @@ compte mitjançant un codi QR o iniciant sessió, com es mostra a les següents 
 
 ![image](https://github.com/pepbote/daw-bio2/assets/144775859/7c7331e5-1559-46db-af3a-6b5b0c9a39c3)
 
-També cal destacar, el seu mapa amb informació en temps real i la possibilitat de veure altres usuaris al mapa.
+També cal destacar, el seu mapa amb informació en temps real i la possibilitat de veure altres usuaris al mapa. 
+
+![waze](https://github.com/pepbote/daw-bio2/assets/144775859/646bfc84-6a8a-4b62-8cc4-c1fd3fd9c614)
+
+A la imatge podem observar un usuari (marcat amb negre) i una zona d'obres (marcat amb vermell).
 
 - 
