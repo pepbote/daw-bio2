@@ -35,7 +35,7 @@ donaria una segona vida a l'aplicació.
 
 - Waze -> https://www.waze.com/es/live-map
 
-![image](https://github.com/pepbote/daw-bio2/assets/144775859/f3c1ed31-45e3-4c30-a811-90d417b88b13)
+![p8yg7urr](https://github.com/pepbote/daw-bio2/assets/144775859/2b43de8b-5cf3-46d0-b6ab-02219e522efe)
 
 Aquesta és la versió web de Waze, és una aplicació per a conductors, que serveix per conèixer a quina hora arribaràs a qualsevol lloc i per on és la millor manera d'arribar. Un punt positiu de Waze, és que té la seva versió web, a la qual pots accedir al teu
 compte mitjançant un codi QR o iniciant sessió, com es mostra a les següents imatges:
