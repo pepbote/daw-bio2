@@ -50,8 +50,10 @@ També cal destacar, el seu mapa amb informació en temps real i la possibilitat
 
 A la imatge podem observar un usuari (marcat amb negre) i una zona d'obres (marcat amb vermell).
 
-
 Un punt feble que trobem de Waze és la dependència de la connectivitat a Internet, Waze requereix una connexió a Internet constant per funcionar correctament. Això pot ser problemàtic en àrees amb senyal cel·lular deficient o durant viatges internacionals quan 
 les dades mòbils poden ser costoses.
 
-- 
+- Airbnb -> https://www.airbnb.es/?_set_bev_on_new_domain=1698603026_MmE4MzkwYjk0OWM3
+
+![image](https://github.com/pepbote/daw-bio2/assets/144775859/6ccc1709-d31c-4797-aa99-01fa20e2acd5)
+
